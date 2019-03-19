@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DeducerMain", "DeducerMain\DeducerMain.fsproj", "{D14C3F74-644D-4296-9302-E8E18CC42F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14C3F74-644D-4296-9302-E8E18CC42F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14C3F74-644D-4296-9302-E8E18CC42F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14C3F74-644D-4296-9302-E8E18CC42F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14C3F74-644D-4296-9302-E8E18CC42F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80216B91-115A-4827-9111-C4ABDEC4ADD5}
+	EndGlobalSection
+EndGlobal

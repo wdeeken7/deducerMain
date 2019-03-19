@@ -1,0 +1,8 @@
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\obj\Debug\netcoreapp2.0\DeducerMain.fsprojAssemblyReference.cache
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\bin\Debug\netcoreapp2.0\DeducerMain.deps.json
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\bin\Debug\netcoreapp2.0\DeducerMain.runtimeconfig.json
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\bin\Debug\netcoreapp2.0\DeducerMain.runtimeconfig.dev.json
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\bin\Debug\netcoreapp2.0\DeducerMain.dll
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\bin\Debug\netcoreapp2.0\DeducerMain.pdb
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\obj\Debug\netcoreapp2.0\DeducerMain.dll
+C:\Users\wdeek\source\repos\DeducerMain\DeducerMain\obj\Debug\netcoreapp2.0\DeducerMain.pdb
